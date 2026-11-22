@@ -1,12 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <mods name="Company_22_11_2026">
   <Vanilla />
   <Workshop name="More Informative Descriptions" id="3647060108" />
+  <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
   <Workshop name="Radioself" id="3819343610" />
   <Workshop name="Barotraumatic" id="2518816103" />
   <Workshop name="Improved Husks" id="2085783214" />
   <Workshop name="Artifacts and Ruins Enhanced" id="3218219821" />
-  <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
+  <Workshop name="Hungry Europans" id="2954998725" />
   <Workshop name="Enhanced Reactors" id="3045796581" />
   <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
   <Workshop name="From the Dark" id="3492052615" />
@@ -29,7 +30,6 @@
   <Local name="Dugong (A)" />
   <Local name="Верблюд (A)" />
   <Workshop name="Warp" id="3701357676" />
-  <Workshop name="Hungry Europans" id="2954998725" />
   <Workshop name="Complete Global Darkness" id="2874526487" />
   <Workshop name="Even More Beacon Stations" id="3245057161" />
   <Workshop name="Facehurt's Beacon Stations" id="3138798239" />
