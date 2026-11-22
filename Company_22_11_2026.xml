@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods name="Company_22_11_2026">
   <Vanilla />
-  <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
   <Workshop name="More Informative Descriptions" id="3647060108" />
+  <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
   <Workshop name="Radioself" id="3819343610" />
   <Workshop name="Barotraumatic" id="2518816103" />
   <Workshop name="Improved Husks" id="2085783214" />
   <Workshop name="Artifacts and Ruins Enhanced" id="3218219821" />
-  <Workshop name="Hungry Europans" id="2954998725" />
   <Workshop name="Enhanced Reactors" id="3045796581" />
   <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
   <Workshop name="From the Dark" id="3492052615" />
@@ -18,6 +17,8 @@
   <Workshop name="Combat Overhaul Neurotrauma patch" id="3072525010" />
   <Workshop name="NT Surgery Plus" id="3478084070" />
   <Workshop name="Combat Overhaul Legacy" id="3028141718" />
+  <Workshop name="Hungry Europans - Neurotrauma Compatibility Patch" id="3222593240" />
+  <Workshop name="Hungry Europans" id="2954998725" />
   <Workshop name="Neurotrauma" id="3190189044" />
   <Workshop name="Lua Editor" id="2983569829" />
   <Workshop name="Let Me Craft It! - More Blueprints" id="3586526700" />
