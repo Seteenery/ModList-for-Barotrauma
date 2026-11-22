@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods name="Company_22_11_2026">
   <Vanilla />
-  <Workshop name="More Informative Descriptions" id="3647060108" />
   <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
+  <Workshop name="More Informative Descriptions" id="3647060108" />
   <Workshop name="Radioself" id="3819343610" />
   <Workshop name="Barotraumatic" id="2518816103" />
   <Workshop name="Improved Husks" id="2085783214" />
