@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mods name="Company_22_11_2026">
+  <Vanilla />
+  <Workshop name="More Informative Descriptions" id="3647060108" />
+  <Workshop name="Radioself" id="3819343610" />
+  <Workshop name="Barotraumatic" id="2518816103" />
+  <Workshop name="Improved Husks" id="2085783214" />
+  <Workshop name="Artifacts and Ruins Enhanced" id="3218219821" />
+  <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
+  <Workshop name="Enhanced Reactors" id="3045796581" />
+  <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
+  <Workshop name="From the Dark" id="3492052615" />
+  <Workshop name="Immersive Sonar UI - A Real Sonar Add-On" id="3172965454" />
+  <Workshop name="Real Sonar" id="2936760984" />
+  <Workshop name="Immersive Repairs" id="3114087512" />
+  <Workshop name="BetterHealthUI (Rework)" id="3231293294" />
+  <Workshop name="Combat Overhaul Neurotrauma patch" id="3072525010" />
+  <Workshop name="NT Surgery Plus" id="3478084070" />
+  <Workshop name="Combat Overhaul Legacy" id="3028141718" />
+  <Workshop name="Neurotrauma" id="3190189044" />
+  <Workshop name="Lua Editor" id="2983569829" />
+  <Workshop name="Let Me Craft It! - More Blueprints" id="3586526700" />
+  <Workshop name="Soundproof Walls 2.0" id="3153737715" />
+  <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="ConditionBarsForInteractionLabels" id="3471496395" />
+  <Workshop name="Hide Dead Crew" id="3646939118" />
+  <Workshop name="EK Gunnery 重製版" id="3000949045" />
+  <Workshop name="EK Utilities 重製版" id="3008781099" />
+  <Local name="Dugong (A)" />
+  <Local name="Верблюд (A)" />
+  <Workshop name="Warp" id="3701357676" />
+  <Workshop name="Hungry Europans" id="2954998725" />
+  <Workshop name="Complete Global Darkness" id="2874526487" />
+  <Workshop name="Even More Beacon Stations" id="3245057161" />
+  <Workshop name="Facehurt's Beacon Stations" id="3138798239" />
+  <Workshop name="Astra's Wrecks" id="2552778989" />
+  <Workshop name="ADV Beacon Stations" id="2544952900" />
+  <Workshop name="Beacons Extended" id="2389600483" />
+  <Workshop name="Shipwrecks Extended" id="2095211492" />
+  <Workshop name="Wreck Locator" id="2767049553" />
+</mods>
